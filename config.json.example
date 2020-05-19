@@ -1,8 +1,8 @@
 {
     "port": 3000,
 
-    "clientId": "",
-    "clientSecret": "",
+    "clientId": "708902278836518973",
+    "clientSecret": "Q2AZP-RO8BwKV-vA8aK2epArSPXSxQR8",
     "scopes": ["identify", "guilds"],
-    "redirectUri": "http://localhost:3000/authorize/callback"
+    "redirectUri": "http://staticweb.glitch.me/authorize/callback"
 }
